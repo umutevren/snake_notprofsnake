@@ -37,14 +37,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to play th
 - Avoid hitting yourself
 - Try to get the highest score possible!
 
-## Deploy on Vercel
+## Play Online
 
-The easiest way to deploy this app is to use the [Vercel Platform](https://vercel.com).
+You can play the game online at: [https://snake-notprofsnake.vercel.app/](https://snake-notprofsnake.vercel.app/)
 
-1. Push your code to a Git repository (GitHub, GitLab, or Bitbucket)
-2. Import your repository on Vercel
-3. Vercel will detect it's a Next.js app and set up the build configuration automatically
-4. Your app will be deployed and you'll get a URL to share with others
+## About This Project
+
+This is part of my journey to learn JavaScript and modern web development. While the game mechanics are intentionally kept basic, it serves as a practical exercise in understanding fundamental concepts of React, TypeScript, and state management. I believe in learning by doing, and this project represents one of my early steps in mastering web development.
 
 ## Technologies Used
 
