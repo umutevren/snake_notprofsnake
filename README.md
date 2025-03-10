@@ -9,6 +9,10 @@ A modern implementation of the classic Snake game built with Next.js and TypeScr
 - Score tracking
 - Game over state
 - Modern UI
+- Color customization
+  - Custom snake and food colors
+  - Preset themes (Classic, Neon, Ocean, Sunset)
+  - Real-time color updates
 
 ## Getting Started
 
@@ -33,9 +37,24 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to play th
 ## How to Play
 
 - Use arrow keys to control the snake's direction
-- Eat the red food to grow and score points
+- Eat the food to grow and score points
 - Avoid hitting yourself
 - Try to get the highest score possible!
+
+## Customization
+
+The game now includes color customization options:
+
+1. **Preset Themes**
+   - Classic: Green snake with red food (original theme)
+   - Neon: Bright green snake with magenta food
+   - Ocean: Cyan snake with orange food
+   - Sunset: Orange snake with yellow food
+
+2. **Custom Colors**
+   - Use the color pickers to set your own snake and food colors
+   - Changes are applied in real-time while playing
+   - Mix and match colors to create your perfect theme
 
 ## Play Online
 
